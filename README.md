@@ -180,9 +180,7 @@ drawXXX()	| 绘制数据或效果相关的，使用draw前缀标识
 * PhotoView
 * ViewPageIndicator
 
-## View project on GitHub
-
-* [https://github.com/tianshaojie/android-code-style](https://github.com/tianshaojie/android-code-style)
+##有待跟新！！
 
 
 
